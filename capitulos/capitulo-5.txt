@@ -1,0 +1,6 @@
+gerenciamento de defeitos, relatório de defeitos, critérios de entrada, critérios de saída, risco de
+produto, risco de projeto, risco, análise de risco, avaliação de risco, controle de risco, identificação
+de risco, nível de risco, gerenciamento de risco, mitigação de risco, monitoramento de risco, teste
+baseado em risco, abordagem de teste, relatório de conclusão de teste, controle de teste,
+monitoramento de teste, plano de teste, planejamento de teste, relatório de progresso de teste,
+pirâmide de teste, quadrantes de teste

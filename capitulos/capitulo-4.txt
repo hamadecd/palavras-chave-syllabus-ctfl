@@ -1,0 +1,6 @@
+critérios de aceite, desenvolvimento orientado por teste de aceite, técnica de teste caixa-preta,
+análise de valor de limite, cobertura de ramificação, teste baseado em lista de verificação,
+abordagem de teste baseada na colaboração, cobertura, item de cobertura, teste de tabela de
+decisão, particionamento de equivalência, suposição de erro, técnica de teste baseada na
+experiência, teste exploratório, teste de transição de estado, cobertura de instrução, técnica de teste,
+técnica de teste caixa-branca

@@ -1,0 +1,4 @@
+teste de aceite, teste caixa-preta, teste de integração de componentes, teste de componentes, teste
+de confirmação, teste funcional, teste de integração, teste de manutenção, teste não funcional, teste
+de regressão, shift-left, teste de integração de sistemas, teste de sistemas, nível de teste, objeto de
+teste, tipo de teste, teste caixa-branca

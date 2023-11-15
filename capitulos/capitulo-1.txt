@@ -1,0 +1,5 @@
+cobertura, depuração, defeito, erro, falha, qualidade, garantia de qualidade, causa raiz, análise de
+teste, base de teste, caso de teste, conclusão do teste, condição de teste, controle de teste, dados de
+teste, projeto de teste, execução de teste, implementação de teste, monitoramento de teste, objeto
+de teste, objetivo de teste, planejamento de teste, procedimento de teste, resultado de teste, teste,
+testware, validação, verificação

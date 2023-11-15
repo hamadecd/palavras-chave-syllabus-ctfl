@@ -1,0 +1,2 @@
+anomalia, teste dinâmico, revisão formal, revisão informal, inspeção, revisão, análise estática, teste
+estático, revisão técnica, walkthrough
